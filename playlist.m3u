@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Nasional",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-id="TransTV.id@SD",Trans TV (720p)
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="AntaraTV.id@SD",Antara TV
